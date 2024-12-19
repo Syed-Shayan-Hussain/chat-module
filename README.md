@@ -11,7 +11,9 @@ Steps to follow for Backend:
 
 Setup MySQL db using the redis.sql file from the directory.
 
-update .env file for the DB credentials and name.
+Import this file in mySQL phpmyadmin dashboard.
+
+Update .env file for the DB credentials and name.
 
 commands:
 
